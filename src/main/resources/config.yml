@@ -1,0 +1,9 @@
+# MLG_RUSH, SUMO, NO_DEBUFF, BUILD_UHC, GAPPLE, BRIDGE
+mode: SUMO
+map: 'SumoMap'
+
+# Нужная секция для определения точек спавна оппонентов на игровой арене.
+map-radius: 10
+
+# Точка спавна лобби ожидания игроков.
+wait-lobby-spawn: 'WaitLobby, 0.5, 50, 0.5, 90, 0'
